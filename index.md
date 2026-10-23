@@ -2,6 +2,8 @@
 title: habbit Privacy Policy
 ---
 
+<img src="logo.png" alt="habbit logo" width="96" height="96" style="border-radius: 22%;">
+
 # habbit Privacy Policy
 
 Effective as of October 23, 2026.
